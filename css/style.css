@@ -3,13 +3,13 @@ img.resize {
   max-height:auto;
  }
 
-a
+.AboutMeLink a
 {
 	color: black;
 	font-size: auto;
 }
 
-a:hover
+.AboutMeLink a:hover
 {
 	color: gray;
 
