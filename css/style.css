@@ -15,3 +15,11 @@ img.resize {
 
 }
 
+.box img
+{
+
+  /*background: #000;*/
+
+  border-radius: 50%;
+  border: 5px solid pink;
+}
