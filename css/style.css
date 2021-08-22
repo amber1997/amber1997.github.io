@@ -14,3 +14,11 @@ img.resize {
 	color: gray;
 
 }
+
+.myInfo {
+    text-align: center;
+}
+
+.myInfo ul {
+    display: inline-block;
+}
