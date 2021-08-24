@@ -23,3 +23,16 @@ img.resize {
   border-radius: 50%;
   border: 5px solid pink;
 }
+
+
+#AboutMeDecription{
+　width:240px;
+　height:280px;
+　text-align:center;
+　line-height:280px;
+　font-size:15px;
+　color:#f9c81e;
+　font-weight:bold;
+　background-color:#fffaf3;
+　float:left;
+}
