@@ -25,6 +25,18 @@ img.resize {
 }
 
 
+#Sidebar{
+　width:120px;
+　float:left;
+　height:280px;
+　text-align:center;
+　line-height:280px;
+　font-size:15px;
+　color:#ffffff;
+　font-weight:bold;
+　background-color:#cecece;
+}
+
 #AboutMeDecription{
 　width:240px;
 　height:280px;
@@ -37,14 +49,4 @@ img.resize {
 　float:left;
 }
 
-#Sidebar{
-　width:120px;
-　float:left;
-　height:280px;
-　text-align:center;
-　line-height:280px;
-　font-size:15px;
-　color:#ffffff;
-　font-weight:bold;
-　background-color:#cecece;
-}
+
