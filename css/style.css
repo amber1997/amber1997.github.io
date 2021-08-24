@@ -36,3 +36,15 @@ img.resize {
 　background-color:#fffaf3;
 　float:left;
 }
+
+#Sidebar{
+　width:120px;
+　float:left;
+　height:280px;
+　text-align:center;
+　line-height:280px;
+　font-size:15px;
+　color:#ffffff;
+　font-weight:bold;
+　background-color:#cecece;
+}
